@@ -1,2 +1,2 @@
-# CPP-Code-Practice
+# DSA Streak
 A structured repository for learning and practicing C++ concepts.
